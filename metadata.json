@@ -1,0 +1,6 @@
+{
+  "name": "VoucherBharat - Indian Gift Cards & Digital Vouchers",
+  "description": "Ultra-clean Indian digital vouchers and gift cards store with verified UPI payments, instant discounts, and wallet offers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
